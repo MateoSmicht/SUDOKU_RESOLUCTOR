@@ -38,6 +38,10 @@ IDE: Eclipse / IntelliJ IDEA.
 
 📸 Capturas de Pantalla
 
+<img width="777" height="688" alt="Captura" src="https://github.com/user-attachments/assets/78de8e1a-0df4-4b97-befc-0caf098bf646" />
+<img width="777" height="682" alt="Captura2" src="https://github.com/user-attachments/assets/9a34cf14-d371-4f8f-b1c2-8f5142037a04" />
+<img width="780" height="688" alt="Captura3" src="https://github.com/user-attachments/assets/2cf1c65c-2d09-42c7-bc90-fcc0a8ddd9a3" />
+
 
 👤 Autor
 Mateo Damian Smicht
