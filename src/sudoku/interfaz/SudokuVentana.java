@@ -99,10 +99,11 @@ public class SudokuVentana extends JFrame {
 
     }
     
-
+//MAIN
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
-            new SudokuVentana(); 
+            SudokuVentana ventana = new SudokuVentana(); 
+            ventana.setVisible(true);                   
         });
     }
 
